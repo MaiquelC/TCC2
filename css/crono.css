@@ -1,0 +1,39 @@
+table {
+    margin: 1% ;
+}
+.tg {
+    border-collapse: collapse ;
+}
+th {
+  text-align: center !important;
+}
+.tg td {
+    border-color:black ;
+    border-style:solid ;
+    border-width:1px ;
+    font-family:Arial, sans-serif ;
+    font-size:14px ;
+    overflow:hidden ;
+    padding: 1%;
+    word-break:normal ;
+}
+.tg th {
+    border-color:black ;
+    border-style:solid;
+    border-width:1px ;
+    font-family:Arial, sans-serif ;
+    font-size:14px;
+    font-weight:normal ;
+    overflow:hidden ;
+    padding:1%;
+    word-break:normal ;
+    width: 159px;
+}
+
+/* n ta funcionando daqui pra baixo */
+.tg .tg-0lax {
+    text-align:left !important;
+    vertical-align:top !important;
+    padding: 100px 50px !important;
+    cursor: pointer !important;
+}
