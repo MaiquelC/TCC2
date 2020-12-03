@@ -4,7 +4,7 @@
 
     $id = $_POST['id'];
 
-    $sql = "insert into semana (numSemana, ID_user) values (1, '$id')";
+    $sql = "insert into semana (NumSemana, ID_user) values (1, '$id')";
     $query = mysqli_query($conectar, $sql);
 
     if($query) {
